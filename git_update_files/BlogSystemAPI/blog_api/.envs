@@ -1,0 +1,4 @@
+DATABASE_URL=mysql+aiomysql://ljj:Ljj19951010@localhost:3306/blog_db
+REDIS_URL=redis://:v2stAHSpsypb6mqKcN7qW494GGsK7AHb@redis-18911.crce178.ap-east-1-1.ec2.cloud.redislabs.com:18911/0
+SECRET_KEY=!~($H798afhajkh298H(@!#Hijh9825hishf9HJKL@$H(HFjs9230.322a1UI(@#%_)%_)#%(@@!)(JOFAFAA+G/*-+6+56+4651*-56+160.032.0.0xvb.v0b.,m,0.nm,n0m3b,mn,m.,.,.,.<>?<>?M<Pfdnkwjitongj
+ALGORITHM=HS256
